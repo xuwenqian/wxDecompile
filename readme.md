@@ -21,7 +21,7 @@ wxpack： 解码/反编输出结果
 
 ## 统计结果
 
-统计完成后会在报告路径下创建一个report目录，里面存放了api.json，style.json和xml.json，请将这三个文件打包后发给我们，谢谢!
+统计完成后会在报告路径下创建一个report目录，里面存放了api.json，style.json和xml.json。
 
 ## 修订记录
 
